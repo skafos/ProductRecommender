@@ -1,4 +1,5 @@
 # Copyright (c) 2014 Erin RobotGrrl <erin@robotgrrl.com>, MIT license
+# Adapted from: https://github.com/hroncok/thingiverse
 import sys
 from rauth import OAuth2Service
 import webbrowser

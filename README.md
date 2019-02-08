@@ -13,10 +13,11 @@ The components of this repo are:
 
 |   userId | thingId    |
 |---------:|:-----------|
-|        1 | standing   |
-|        1 | standing   |
-|        1 | standing   |
+|        1 | 343455   |
+|        1 | 345353   |
+|        2 | 643363   |
 
 
 -  The model can generate personalized recommendations to a user based on which 3D model designs they like and ones that others have liked.
 -  In order to get data from the Thingiverse API, you must register a developer account with them.
+-  Thingiverse API Python wrapper ~ adapted from: https://github.com/hroncok/thingiverse
