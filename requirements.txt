@@ -2,4 +2,4 @@ skafossdk==1.2.2
 turicreate==5.3.1
 rauth==0.7.3
 tqdm==4.30.0
-requests==2.21.0
+requests==2.31.0
